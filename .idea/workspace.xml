@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaCampOdevleri.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arkadasSayilar/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayDemo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionals/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataTypes/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloWorld/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miniProjeAsalSayi/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mukemmelSayi/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiDimensionalArrayDemo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recampDemo1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recampDemo2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sayiBulma/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sesliHarfler/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringDemo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/switchDemo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variable/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +51,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663448617706</updated>
-      <workItem from="1663448619679" duration="20000" />
+      <workItem from="1663448619679" duration="705000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1663448820199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663448820199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

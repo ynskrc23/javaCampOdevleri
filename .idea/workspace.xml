@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="first commit">
+    <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="birinci hafta ödevleri">
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/methods/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arkadasSayilar/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayDemo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditionals/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataTypes/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloWorld/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miniProjeAsalSayi/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mukemmelSayi/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiDimensionalArrayDemo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recampDemo1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recampDemo2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sayiBulma/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sesliHarfler/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stringDemo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/switchDemo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +33,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ikinciHafta.methods.Main" />
+      <module name="javaCampOdevleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ikinciHafta.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663448617706</updated>
-      <workItem from="1663448619679" duration="705000" />
+      <workItem from="1663448619679" duration="856000" />
+      <workItem from="1663872070080" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663448820199</created>
@@ -75,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663448820199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="birinci hafta ödevleri">
+      <created>1663449365508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663449365508</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="birinci hafta ödevleri" />
+    <option name="LAST_COMMIT_MESSAGE" value="birinci hafta ödevleri" />
   </component>
 </project>

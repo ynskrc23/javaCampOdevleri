@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="ikinici hafta ödevleri">
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/classes/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/classes/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ikinciHafta/methods2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ikinciHafta/methods2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +44,26 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ikinciHafta.methods2.Main">
+  <component name="RunManager" selected="Application.ikinciHafta.classes.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ikinciHafta.methods.Main" />
       <module name="javaCampOdevleri" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ikinciHafta.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ikinciHafta.classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ikinciHafta.classes.Main" />
+      <module name="javaCampOdevleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ikinciHafta.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ikinciHafta.classes.Main" />
         <item itemvalue="Application.ikinciHafta.methods2.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -86,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663448617706</updated>
       <workItem from="1663448619679" duration="856000" />
-      <workItem from="1663872070080" duration="2599000" />
+      <workItem from="1663872070080" duration="4300000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663448820199</created>
@@ -116,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663874350854</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ikinici hafta ödevleri">
+      <created>1663875018225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663875018225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="ikinici hafta ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/methodOverloading/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/methodOverloading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/PersonManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +49,20 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ikinciHafta.methodOverloading.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ikinciHafta.Inheritance.Main" />
+      <module name="javaCampOdevleri" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ikinciHafta.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ikinciHafta.classesWithAttributes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ikinciHafta.classesWithAttributes.Main" />
       <module name="javaCampOdevleri" />
@@ -84,19 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ikinciHafta.methods2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ikinciHafta.methods2.Main" />
-      <module name="javaCampOdevleri" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ikinciHafta.methods2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ikinciHafta.reCapDemo_Classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ikinciHafta.reCapDemo_Classes.Main" />
       <module name="javaCampOdevleri" />
@@ -112,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ikinciHafta.methodOverloading.Main" />
         <item itemvalue="Application.ikinciHafta.classesWithAttributes.Main" />
         <item itemvalue="Application.ikinciHafta.reCapDemo_Classes.Main" />
         <item itemvalue="Application.ikinciHafta.classes.Main" />
-        <item itemvalue="Application.ikinciHafta.methods2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +135,7 @@
       <updated>1663448617706</updated>
       <workItem from="1663448619679" duration="856000" />
       <workItem from="1663872070080" duration="5663000" />
-      <workItem from="1664014035317" duration="4445000" />
+      <workItem from="1664014035317" duration="5329000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663448820199</created>
@@ -209,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664019229294</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ikinici hafta ödevleri">
+      <created>1664021464695</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664021464695</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

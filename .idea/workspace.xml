@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="ikinici hafta ödevleri&#10;Field ve Attribute ile Çalışmak">
+    <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="ikinici hafta ödevleri">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ikinciHafta/classesWithAttributes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ikinciHafta/classesWithAttributes/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ikinciHafta/classesWithAttributes/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ikinciHafta/classesWithAttributes/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ikinciHafta/classesWithAttributes/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ikinciHafta/classesWithAttributes/ProductManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +130,7 @@
       <updated>1663448617706</updated>
       <workItem from="1663448619679" duration="856000" />
       <workItem from="1663872070080" duration="5663000" />
-      <workItem from="1664014035317" duration="2712000" />
+      <workItem from="1664014035317" duration="3592000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663448820199</created>
@@ -196,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664015250205</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ikinici hafta ödevleri">
+      <created>1664018339510</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664018339510</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,8 +222,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="birinci hafta ödevleri" />
-    <MESSAGE value="ikinici hafta ödevleri" />
     <MESSAGE value="ikinici hafta ödevleri&#10;Field ve Attribute ile Çalışmak" />
-    <option name="LAST_COMMIT_MESSAGE" value="ikinici hafta ödevleri&#10;Field ve Attribute ile Çalışmak" />
+    <MESSAGE value="ikinici hafta ödevleri" />
+    <option name="LAST_COMMIT_MESSAGE" value="ikinici hafta ödevleri" />
   </component>
 </project>

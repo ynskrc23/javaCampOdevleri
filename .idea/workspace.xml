@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="ikinici hafta ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/EmployeeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/Inheritance/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/InheritanceDemo/AskerKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/InheritanceDemo/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/InheritanceDemo/KrediUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/InheritanceDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/InheritanceDemo/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ikinciHafta/InheritanceDemo/TarimKrediManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,18 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.ikinciHafta.InheritanceDemo.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ikinciHafta.Inheritance.Main" />
       <module name="javaCampOdevleri" />
@@ -63,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ikinciHafta.classesWithAttributes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ikinciHafta.classesWithAttributes.Main" />
+    <configuration name="ikinciHafta.InheritanceDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ikinciHafta.InheritanceDemo.Main" />
       <module name="javaCampOdevleri" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ikinciHafta.classesWithAttributes.*" />
+          <option name="PATTERN" value="ikinciHafta.InheritanceDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ikinciHafta.classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ikinciHafta.classes.Main" />
+    <configuration name="ikinciHafta.classesWithAttributes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ikinciHafta.classesWithAttributes.Main" />
       <module name="javaCampOdevleri" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ikinciHafta.classes.*" />
+          <option name="PATTERN" value="ikinciHafta.classesWithAttributes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ikinciHafta.InheritanceDemo.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ikinciHafta.methodOverloading.Main" />
         <item itemvalue="Application.ikinciHafta.classesWithAttributes.Main" />
         <item itemvalue="Application.ikinciHafta.reCapDemo_Classes.Main" />
-        <item itemvalue="Application.ikinciHafta.classes.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +136,7 @@
       <updated>1663448617706</updated>
       <workItem from="1663448619679" duration="856000" />
       <workItem from="1663872070080" duration="5663000" />
-      <workItem from="1664014035317" duration="5329000" />
+      <workItem from="1664014035317" duration="6706000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663448820199</created>
@@ -221,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664021464695</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ikinici hafta ödevleri">
+      <created>1664022354865</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664022354865</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

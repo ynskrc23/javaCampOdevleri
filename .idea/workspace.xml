@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="ucuncu hafta ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/overriding/BaseCrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/overriding/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/overriding/OgrenciKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/overriding/OgretmenKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/overriding/TarimKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractClasses/GameCalculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractClasses/KidsGameCalculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractClasses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractClasses/ManGameCalculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractClasses/OlderGameCalculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractClasses/WomanGameCalculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractDemo/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractDemo/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractDemo/MysqlManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractDemo/OracleDatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractDemo/PostgreSqlManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/abstractDemo/SqlServerDatabaseManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +57,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ucuncuHafta.odev2.overriding.Main">
-    <configuration name="ikinciHafta.InheritanceDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ikinciHafta.InheritanceDemo.Main" />
+  <component name="RunManager" selected="Application.ucuncuHafta.odev2.abstractDemo.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ucuncuHafta.odev2.abstractClasses.Main" />
       <module name="javaCampOdevleri" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ikinciHafta.InheritanceDemo.*" />
+          <option name="PATTERN" value="ucuncuHafta.odev2.abstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ucuncuHafta.odev2.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ucuncuHafta.odev2.interfaces.Main" />
+    <configuration name="ucuncuHafta.odev2.abstractDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ucuncuHafta.odev2.abstractDemo.Main" />
       <module name="javaCampOdevleri" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ucuncuHafta.odev2.interfaces.*" />
+          <option name="PATTERN" value="ucuncuHafta.odev2.abstractDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ucuncuHafta.odev2.abstractDemo.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ucuncuHafta.odev2.overriding.Main" />
         <item itemvalue="Application.ucuncuHafta.odev2.polymorphismDemo.Main" />
         <item itemvalue="Application.ucuncuHafta.odev2.staticDemo.Main" />
-        <item itemvalue="Application.ucuncuHafta.odev2.interfaces.Main" />
-        <item itemvalue="Application.ikinciHafta.InheritanceDemo.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +144,7 @@
       <workItem from="1663448619679" duration="856000" />
       <workItem from="1663872070080" duration="5663000" />
       <workItem from="1664014035317" duration="7099000" />
-      <workItem from="1665084053718" duration="5581000" />
+      <workItem from="1665084053718" duration="6689000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663448820199</created>
@@ -264,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665089345910</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="ucuncu hafta ödevleri">
+      <created>1665089720008</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665089720008</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="ikinici hafta ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaces/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaces/ICustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaces/IRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaces/MySqlCustomerDal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaces/OracleCustomerDal.java" afterDir="false" />
+    <list default="true" id="b544b425-c18b-44e2-8e8c-86d28deb27b1" name="Changes" comment="ucuncu hafta ödevleri">
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaceDemo/IEatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaceDemo/IPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaceDemo/IWorkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaceDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaceDemo/OutsourceWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaceDemo/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ucuncuHafta/odev2/interfaceDemo/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +138,7 @@
       <workItem from="1663448619679" duration="856000" />
       <workItem from="1663872070080" duration="5663000" />
       <workItem from="1664014035317" duration="7099000" />
-      <workItem from="1665084053718" duration="2100000" />
+      <workItem from="1665084053718" duration="2949000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663448820199</created>
@@ -237,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664023759779</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ucuncu hafta ödevleri">
+      <created>1665086215526</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665086215526</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +267,7 @@
     <MESSAGE value="birinci hafta ödevleri" />
     <MESSAGE value="ikinici hafta ödevleri&#10;Field ve Attribute ile Çalışmak" />
     <MESSAGE value="ikinici hafta ödevleri" />
-    <option name="LAST_COMMIT_MESSAGE" value="ikinici hafta ödevleri" />
+    <MESSAGE value="ucuncu hafta ödevleri" />
+    <option name="LAST_COMMIT_MESSAGE" value="ucuncu hafta ödevleri" />
   </component>
 </project>
